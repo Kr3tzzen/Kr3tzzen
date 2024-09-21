@@ -1,2 +1,4 @@
 branch master 
 c1
+branch master
+c2
